@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/sytasch/ROS/turtle/catkin_ws/src
+# Build directory: /home/sytasch/ROS/turtle/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs(gtest)
+subdirs(intro_to_ros/bv80bot/bv80bot_node)
+subdirs(fiducials/fiducials)
+subdirs(intro_to_ros/lidar_values)
+subdirs(magni_robot/magni_bringup)
+subdirs(magni_robot/magni_demos)
+subdirs(magni_robot/magni_description)
+subdirs(magni_robot/magni_desktop)
+subdirs(magni_robot/magni_gazebo)
+subdirs(magni_robot/magni_nav)
+subdirs(magni_robot/magni_robot)
+subdirs(magni_robot/magni_teleop)
+subdirs(magni_robot/magni_viz)
+subdirs(intro_to_ros/bv80bot/neato_robot/neato_2dnav)
+subdirs(intro_to_ros/bv80bot/neato_robot/neato_driver)
+subdirs(intro_to_ros/bv80bot/neato_robot/neato_node)
+subdirs(intro_to_ros/bv80bot/neato_robot/neato_robot)
+subdirs(rbx1/rbx1)
+subdirs(intro_to_ros/sample_code/beginner_tutorials)
+subdirs(intro_to_ros/camp)
+subdirs(rbx1/rbx1_bringup)
+subdirs(rbx1/rbx1_dynamixels)
+subdirs(rbx1/rbx1_vision)
+subdirs(rbx1/rbx1_speech)
+subdirs(fiducials/fiducial_msgs)
+subdirs(rbx1/rbx1_apps)
+subdirs(rbx1/rbx1_nav)
+subdirs(fiducials/aruco_detect)
+subdirs(fiducials/fiducial_slam)
+subdirs(rbx1/rbx1_description)

@@ -1,0 +1,8 @@
+prefix=/home/sytasch/ROS/turtle/catkin_ws/install
+
+Name: magni_teleop
+Description: Description of magni_teleop
+Version: 0.4.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

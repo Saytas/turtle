@@ -1,0 +1,8 @@
+prefix=/home/sytasch/ROS/turtle/catkin_ws/install
+
+Name: lidar_values
+Description: Description of lidar_values
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
